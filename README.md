@@ -1,6 +1,6 @@
 # Somrup Roy
 
-![Profile Image](![image](https://github.com/Somruproy7/Somruproy7/assets/75779704/2820c8fb-e6d6-49d4-bb7e-6c5bc770a9e6))
+![Profile Image](![image](https://github.com/Somruproy7/Somruproy7/assets/75779704/2820c8fb-e6d6-49d4-bb7e-6c5bc770a9e6)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/somrup-roy-16b643216)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Somruproy7)
@@ -11,7 +11,7 @@ I'm Somrup Roy, a dedicated and enthusiastic Software Developer based in Kolkata
 
 💼 Professional Summary
 
-As a software developer, I excel in creating user-friendly, efficient, and scalable software solutions. My projects reflect my ability to apply theoretical knowledge to real-world applications, from building a real-time stock price prediction system to developing a face recognition-based attendance management system.I have experience as a software developer at DMG Solutions, where I create and maintain technical content, ensuring clarity and usability. During my internship at ARS Inventif Pvt, I worked as a Frontend Developer, creating responsive web pages using HTML, CSS, and JavaScript.
+As a software developer, I excel in creating user-friendly, efficient, and scalable software solutions. My projects reflect my ability to apply theoretical knowledge to real-world applications, from building a real-time stock price prediction system to developing a face recognition-based attendance management system.I have experience as a software developer at DMG Solutions, where I create and maintain technical content, ensuring clarity and usability. During my internship , I worked as a Frontend Developer, creating responsive web pages using HTML, CSS, and JavaScript.
 
 ## 💡 Skills
 
@@ -88,6 +88,4 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 - **Email:** [somrupr15@gmail.com](mailto:somrupr15@gmail.com)
 - **LinkedIn:** [Somrup Roy](https://www.linkedin.com/in/somrup-roy-16b643216)
 
----
 
-⭐️ From [Somrup Roy](https://github.com/Somruproy7)
