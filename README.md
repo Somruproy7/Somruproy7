@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://github.com/Somruproy7" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&height=50&lines=Somrup+Roy" alt="Somrup Roy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=100&center=true&vCenter=true&width=650&height=1000&lines=Somrup+Roy" alt="Somrup Roy">
   </a>
 </h1>
 
