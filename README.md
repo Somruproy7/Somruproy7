@@ -1,4 +1,4 @@
-![image](https://github.com/Somruproy7/Somruproy7/assets/75779704/e4edd22a-60a6-4f72-9242-d18ac79b15ef)<h1 align="left">
+<h1 align="left">
   <a href="https://github.com/Somruproy7" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=80&center=true&vCenter=true&width=650&height=80&lines=🧑‍💻Somrup+Roy" alt="Somrup Roy">
   </a>
