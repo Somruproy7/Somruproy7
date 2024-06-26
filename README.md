@@ -1,19 +1,17 @@
 # Somrup Roy
 
-![Profile Image](![me](https://github.com/Somruproy7/Somruproy7/assets/75779704/cf805688-ade9-4ed0-942f-3ed3b688a70a))
+![Profile Image](![image](https://github.com/Somruproy7/Somruproy7/assets/75779704/2820c8fb-e6d6-49d4-bb7e-6c5bc770a9e6))
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/somrup-roy-16b643216)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Somruproy7)
 
 👋 About Me
-I'm Somrup Roy, a dedicated and enthusiastic Software Developer based in Kolkata, West Bengal. I recently graduated with a Bachelor's degree in Computer Science and Engineering from JIS University. My journey in technology has been driven by a deep passion for solving complex problems and a keen interest in innovative technologies.
 
-I have honed my skills in a variety of programming languages, including Python, Java, C, C++, and JavaScript. My expertise extends to areas such as machine learning, web development, and artificial intelligence. I am proficient in using developer tools like VS Code, Android Studio, Google Colab, and Jupyter Notebook. My experience also includes working with frameworks and technologies like GitHub, Git, and MySQL Workbench.
+I'm Somrup Roy, a dedicated and enthusiastic Software Developer based in Kolkata, West Bengal. My journey in technology has been driven by a deep passion for solving complex problems and a keen interest in innovative technologies.I have honed my skills in a variety of programming languages, including Python, Java, C, C++, and JavaScript. My expertise extends to areas such as machine learning, web development, and artificial intelligence. I am proficient in using developer tools like VS Code, Android Studio, Google Colab, and Jupyter Notebook. My experience also includes working with frameworks and technologies like GitHub, Git, and MySQL Workbench.
 
 💼 Professional Summary
-As a software developer, I excel in creating user-friendly, efficient, and scalable software solutions. My projects reflect my ability to apply theoretical knowledge to real-world applications, from building a real-time stock price prediction system to developing a face recognition-based attendance management system.
 
-I have experience as a Technical Content Writer at DMG Solutions, where I create and maintain technical content, ensuring clarity and usability. During my internship at ARS Inventif Pvt, I worked as a Frontend Developer, creating responsive web pages using HTML, CSS, and JavaScript.
+As a software developer, I excel in creating user-friendly, efficient, and scalable software solutions. My projects reflect my ability to apply theoretical knowledge to real-world applications, from building a real-time stock price prediction system to developing a face recognition-based attendance management system.I have experience as a software developer at DMG Solutions, where I create and maintain technical content, ensuring clarity and usability. During my internship at ARS Inventif Pvt, I worked as a Frontend Developer, creating responsive web pages using HTML, CSS, and JavaScript.
 
 ## 💡 Skills
 
@@ -66,20 +64,6 @@ A simple application for creating and joining meetings using unique subject code
 ### [GUI Calculator Using Python](https://github.com/Somruproy7/python_gui_calculator)
 *Python, Tkinter*  
 A beginner project to create a simple calculator interface using Python's Tkinter module.
-
-## 💼 Work Experience
-
-- **Technical Content Writer**  
-  DMG Solutions, Kolkata, West Bengal  
-  July 2023 – Present  
-  *Writing and maintaining technical content, creating user-friendly documentation.*
-
-## 💼 Internship
-
-- **Frontend Developer**  
-  ARS Inventif Pvt, Kolkata, West Bengal  
-  July 2022 – September 2022  
-  *Worked on creating visually appealing and responsive web pages using HTML, CSS, and JavaScript.*
 
 ## 📜 Certifications
 
