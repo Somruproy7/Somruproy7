@@ -1,6 +1,7 @@
 <h1 align="left">
+  <img src="!(https://github.com/Somruproy7/Somruproy7/assets/75779704/3534a3a1-a070-4b5f-a174-a4b406426a88)" alt="Profile Icon" style="vertical-align: middle; margin-right: 10px; width: 80px; height: 80px;">
   <a href="https://github.com/Somruproy7" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=80&center=true&vCenter=true&width=650&height=80&lines=🧑‍💻Somrup+Roy" alt="Somrup Roy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=80&center=true&vCenter=true&width=650&height=80&lines=Somrup+Roy" alt="Somrup Roy">
   </a>
 </h1>
 
