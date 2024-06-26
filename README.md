@@ -1,27 +1,9 @@
-<h1 align="center">
-  <a href="https://github.com/Somruproy7" target="_blank" style="text-decoration: none;">
-    <span style="font-size: 60px; font-weight: bold; display: inline-block; animation: colorchange 4s infinite;">
-      Somrup Roy
-    </span>
+<h1 align="left">
+  <a href="https://github.com/Somruproy7" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&height=50&lines=Somrup+Roy" alt="Somrup Roy">
   </a>
 </h1>
 
-<style>
-@keyframes colorchange {
-  0% {
-    color: #FF5733;
-    transform: scale(1);
-  }
-  50% {
-    color: #1E90FF;
-    transform: scale(1.2);
-  }
-  100% {
-    color: #FF5733;
-    transform: scale(1);
-  }
-}
-</style>
 
 ![Profile Image](https://github.com/Somruproy7/Somruproy7/assets/75779704/2820c8fb-e6d6-49d4-bb7e-6c5bc770a9e6)
 
