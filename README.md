@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Somruproy7" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&height=50&lines=Somrup+Roy;Software+Developer;Machine+Learning+Enthusiast" alt="Somrup Roy">
+    <img src="https://svg-text-animations.vercel.app/api/animate?text=Somrup%20Roy&size=50&duration=1s&color1=%23FF5733&color2=%231E90FF" alt="Somrup Roy">
   </a>
 </h1>
 
