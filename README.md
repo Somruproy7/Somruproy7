@@ -1,14 +1,5 @@
 
 
-
-
-<h1 align="left">
-  
-  <a href="https://github.com/Somruproy7" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=80&center=true&vCenter=true&width=650&height=50&lines=Somrup+Roy💻" alt="Somrup Roy">
-  </a>
-</h1>
-
 ![Profile Image](https://github.com/Somruproy7/Somruproy7/assets/75779704/2820c8fb-e6d6-49d4-bb7e-6c5bc770a9e6)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/somrup-roy-16b643216)
