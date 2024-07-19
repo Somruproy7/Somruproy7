@@ -3,8 +3,9 @@
 
 
 <h1 align="left">
+  
   <a href="https://github.com/Somruproy7" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=80&center=true&vCenter=true&width=650&height=70&lines=Somrup+Roy💻" alt="Somrup Roy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=80&center=true&vCenter=true&width=650&height=50&lines=Somrup+Roy💻" alt="Somrup Roy">
   </a>
 </h1>
 
