@@ -1,7 +1,4 @@
 
-
-![Profile Image](https://github.com/Somruproy7/Somruproy7/assets/75779704/2820c8fb-e6d6-49d4-bb7e-6c5bc770a9e6)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/somrup-roy-16b643216)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Somruproy7)
 
