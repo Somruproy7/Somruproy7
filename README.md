@@ -19,6 +19,7 @@ As a software developer, I excel in creating user-friendly, efficient, and scala
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Technologies & Frameworks
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C58E?style=for-the-badge&logo=Machine%20Learning&logoColor=white)
