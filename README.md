@@ -35,32 +35,8 @@ As a software developer, I excel in creating user-friendly, efficient, and scala
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-### Coursework
-- Operating Systems
-- Network Security
-- Database Management System (DBMS)
-- Artificial Intelligence
-- OOPS Concept
-- Web Development
-- Machine Learning
-
-## 🚀 Projects
-
-### [Real-Time Stock Price Prediction and Investment Suggestion System](https://www.ijfmr.com/research-paper.php?id=13496)
-*Python, Machine Learning, API, Google Colab*  
-Developed a system that fetches real-time stock price data, computes technical indicators, trains predictive models, and suggests profitable buy/sell signals.
-
-### [Face Recognition Based Attendance Management System](https://isjem.com/volume02issue05may2023/)
-Implemented a face recognition system for attendance marking, reducing manual effort and minimizing proxy attendance.
-
-### [JISU Connect](https://drive.google.com/file/d/1nNU3woFz9dxpIFpNn2Hv0T2IG2-3_plG/view)
-*Java, Jitsi Meet SDK*  
-A simple application for creating and joining meetings using unique subject codes.
-
-### [GUI Calculator Using Python](https://github.com/Somruproy7/python_gui_calculator)
-*Python, Tkinter*  
-A beginner project to create a simple calculator interface using Python's Tkinter module.
 
 ## 📜 Certifications
 
