@@ -6,10 +6,6 @@
 
 I am a Full Stack Developer with a strong focus on Python and Django, experienced in building secure, scalable, and high-performance web applications for both enterprise and government platforms. I have hands-on expertise in developing RESTful APIs, designing efficient databases using MySQL and MongoDB, and integrating modern front-end technologies such as HTML, CSS, and JavaScript. I have worked on real-world production systems, including state government financial and legislative applications, and have deployed applications on AWS using CI/CD pipelines for reliable delivery. I enjoy solving complex problems, writing clean and maintainable code, and continuously improving systems through performance optimization and automation.
 
-💼 Professional Summary
-
-As a software developer, I excel in creating user-friendly, efficient, and scalable software solutions. My projects reflect my ability to apply theoretical knowledge to real-world applications, from building a real-time stock price prediction system to developing a face recognition-based attendance management system.I have experience as a software developer at DMG Solutions, where I develop and create software products and projects, ensuring clarity and usability. During my internship , I worked as a Frontend Developer, creating responsive web pages using HTML, CSS, and JavaScript.
-
 ## 💡 Skills
 
 ### Programming Languages
