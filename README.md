@@ -4,7 +4,7 @@
 
 👋 About Me
 
-I'm Somrup Roy, a dedicated and enthusiastic Software Developer based in Kolkata, West Bengal. My journey in technology has been driven by a deep passion for solving complex problems and a keen interest in innovative technologies.I have honed my skills in a variety of programming languages, including Python, Java, C, C++ and JavaScript. My expertise extends to areas such as machine learning, web development, and artificial intelligence. I am proficient in using developer tools like VS Code, Android Studio, Google Colab, and Jupyter Notebook. My experience also includes working with frameworks and technologies like GitHub, Git, and MySQL Workbench.
+I am a Full Stack Developer with a strong focus on Python and Django, experienced in building secure, scalable, and high-performance web applications for both enterprise and government platforms. I have hands-on expertise in developing RESTful APIs, designing efficient databases using MySQL and MongoDB, and integrating modern front-end technologies such as HTML, CSS, and JavaScript. I have worked on real-world production systems, including state government financial and legislative applications, and have deployed applications on AWS using CI/CD pipelines for reliable delivery. I enjoy solving complex problems, writing clean and maintainable code, and continuously improving systems through performance optimization and automation.
 
 💼 Professional Summary
 
