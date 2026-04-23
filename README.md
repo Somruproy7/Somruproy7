@@ -1,65 +1,88 @@
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/somrup-roy-16b643216)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Somruproy7)
 
-👋 About Me
+# 👋 Hi, I'm Somrup Roy
 
-I am a Full Stack Developer with a strong focus on Python and Django, experienced in building secure, scalable, and high-performance web applications for both enterprise and government platforms. I have hands-on expertise in developing RESTful APIs, designing efficient databases using MySQL and MongoDB, and integrating modern front-end technologies such as HTML, CSS, and JavaScript. I have worked on real-world production systems, including state government financial and legislative applications, and have deployed applications on AWS using CI/CD pipelines for reliable delivery. I enjoy solving complex problems, writing clean and maintainable code, and continuously improving systems through performance optimization and automation.
+🚀 Full Stack Developer | Python • Django • REST APIs • AWS
 
-## 💡 Skills
+I build scalable backend systems and full-stack web applications with a strong focus on performance, clean architecture, and real-world usability.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+---
 
-### Technologies & Frameworks
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C58E?style=for-the-badge&logo=Machine%20Learning&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## 🧑‍💻 About Me
 
-### Developer Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+* 💼 Experience building **production-grade applications** (enterprise & government use cases)
+* ⚙️ Strong in **backend development** using Django, Flask & REST APIs
+* 🗄️ Skilled in **database design & optimization** (MySQL, MongoDB)
+* ☁️ Experience deploying applications on **AWS with CI/CD pipelines**
+* 🧠 Interested in solving real-world problems through scalable systems
 
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ShopHub – Full Stack E-Commerce Platform
+
+🔗 https://github.com/Somruproy7/Shophub
+
+* Built a Django-based e-commerce platform with REST APIs
+* Implemented authentication, cart system & order workflows
+* Designed scalable backend architecture with optimized queries
+* Deployed using AWS with CI/CD pipelines
+
+---
+
+### 🎯 Face Recognition Attendance System
+
+🔗 https://github.com/Somruproy7/Attendance-recording-system-Facial-Recognition-
+
+* Developed real-time face recognition using OpenCV & Python
+* Built pipeline for face detection, encoding & matching
+* Integrated MySQL database for attendance tracking
+* Optimized performance for real-time processing
+
+---
+
+## 💡 Tech Stack
+
+### 🧠 Core Skills
+
+* **Languages:** Python, JavaScript, SQL, Java, C++
+* **Backend:** Django, Flask, REST APIs
+* **Frontend:** React, HTML, CSS
+* **Databases:** MySQL, MongoDB
+
+### ☁️ Cloud & Tools
+
+* AWS, Docker (Basic), Git
+* Power BI, Tableau
+
+---
 
 ## 📜 Certifications
 
-- **Data Analytics** - Udemy
-- **Power BI and Tableau** - Udemy
-- **Software Engineering, Computer Graphics** - Coursera
-- **Python Bootcamp** - Udemy
-- **SQL** - Udemy
-- **MongoDB Basics**
-- **Artificial Intelligence and Machine Learning using Python**
+* Data Analytics – Udemy
+* Power BI & Tableau – Udemy
+* Python Bootcamp – Udemy
+* SQL – Udemy
+* MongoDB Basics
+* AI & Machine Learning using Python
+
+---
 
 ## 📰 Publications
 
-- **Fingerprint Door Lock System With Temperature Sensor** | March 2021
-- **Face Recognition Based Attendance System** | May 2023
-- **Real-Time Stock Price Prediction And Investment Suggestion System Using Machine Learning** | February 2024
+* Fingerprint Door Lock System – Mar 2021
+* Face Recognition Attendance System – May 2023
+* Stock Price Prediction using ML – Feb 2024
 
-## 📬 Contact Me
+---
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+## 📬 Contact
 
-- **Email:** [somrupr15@gmail.com](mailto:somrupr15@gmail.com)
-- **LinkedIn:** [Somrup Roy](https://www.linkedin.com/in/somrup-roy-16b643216)
+📧 Email: [somrupr15@gmail.com](mailto:somrupr15@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/somrup-roy-16b643216
 
+---
 
+⭐ *Open to opportunities in Backend / Full Stack Development*
