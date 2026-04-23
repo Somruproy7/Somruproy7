@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Python+Developer+🐍;Django+%7C+Flask+%7C+REST+APIs+%7C+AWS;Building+scalable+production+systems+🚀" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Python+Developer+%F0%9F%90%8D;Django+%7C+Flask+%7C+REST+APIs+%7C+AWS;Building+scalable+production+systems+%F0%9F%9A%80)font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Python+Developer+🐍;Django+%7C+Flask+%7C+REST+APIs+%7C+AWS;Building+scalable+production+systems+🚀" alt="Typing SVG" />
 </div>
 
 ---
