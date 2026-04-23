@@ -1,7 +1,24 @@
-# Hi, I'm Somrup Roy 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Somrup%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Python%20Developer&descAlignY=55&descSize=18" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/somrup-roy-16b643216)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:somrupr15@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/somrup-roy-16b643216">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:somrupr15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Somruproy7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Python+Developer+🐍;Django+%7C+Flask+%7C+REST+APIs+%7C+AWS;Building+scalable+production+systems+🚀" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -58,7 +75,6 @@ Real-time face recognition using Python, OpenCV, and MySQL for automated attenda
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Python Libraries:** &nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
@@ -74,14 +90,22 @@ Real-time face recognition using Python, OpenCV, and MySQL for automated attenda
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somruproy7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somruproy7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somruproy7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somruproy7&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somruproy7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Somruproy7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somruproy7&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
